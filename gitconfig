@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = raphaelle.manet1@gmail.com
+	name = Raphaelle Manet
